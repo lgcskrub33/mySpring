@@ -26,7 +26,7 @@ deploy:
   - provider: s3
     access_key_id: AKIA3LQNHRO47GKHETXL
     secret_access_key: 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
-    bucket: csk-freelec-springboot-build
+    bucket: csk-freelect-springboot-build
     region: ap-northeast-2
     skip-cleanup: true
     acl: private
